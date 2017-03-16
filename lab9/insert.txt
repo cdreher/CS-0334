@@ -1,0 +1,12 @@
+INSERT INTO contacts(
+(1, 'Dreher', 'Collin', '249 Oakland Ave', 'Bouquet Gardens H 304-4', 'Pittsburgh', 'PA', '15213', 'USA', 'cpd12@pitt.edu', '7175661837', 'facebook.com/collindreher', '7178058885', 'cpd12', 'pass1234'),
+(2, 'Smith', 'Joe', '1234 1st Street', 'Apt 2', 'Pittsburgh', 'PA', '15213', 'USA', 'jas12@pitt.edu', '7175555555', 'facebook.com/joe', '7174444444', 'jas12', 'pass0000'),
+(3, 'Johnson', 'David', '1234 2nd Street', 'Apt 1', 'Pittsburgh', 'PA', '15213', 'USA', 'daj12@pitt.edu', '7177177717', 'facebook.com/davidj', '5678901235', 'daj12', 'pass1111'),
+(4, 'Smith', 'John', '1234 3rd Street', 'Apt 3', 'Pittsburgh', 'PA', '15213', 'USA', 'jbj12@pitt.edu', '4444444444', 'facebook.com/johnS', '7777777775', 'jbj12', 'pass2222'),
+(5, 'Anderson', 'Jordan', '1234 4th Drive', 'Apt 3D', 'Pittsburgh', 'PA', '15213', 'USA', 'jaa12@pitt.edu', '9099099898', 'facebook.com/jordanAnderson', '4754738596', 'jaa12', 'pass3333'),
+(6, 'Jackson', 'Richard', '1234 5th Ave', 'Apt 5F', 'Pittsburgh', 'PA', '15213', 'USA', 'rdj2@pitt.edu', '1234576959', 'facebook.com/richJackson', '4084085757', 'rdj2', 'bball12'),
+(7, 'Richards', 'Richard', '1234 6th Drive', 'Unit 2A', 'Myrtle Beach', 'SC', '29572', 'USA', 'rar6@pitt.edu', '3452341234', 'facebook.com/richards', '4567890123', 'rar6', 'pass666'),
+(8, 'Washington', 'George', '1234 0th Drive', 'Apt X', 'Pittsburgh', 'PA', '15213', 'USA', 'george@prez.gov', '3908657912', 'facebook.com/POTUS', '0981230458', 'george1', 'POTUS'),
+(9, 'Livingston', 'Louis', '1234 9th Drive', 'Apt KEK', 'Myrtle Beach', 'SC', '29572', 'USA', 'lel69@pitt.edu', '6661234567', 'facebook.com/lelmaster', '1113345643', 'lel69', 'shrek'),
+(10, 'Sanders', 'Jason', '1234 8th Ave', 'Apt 1B', 'Pittsburgh', 'PA', '15213', 'USA', 'js0@pitt.edu', '1230486453', 'facebook.com/jason', '9473650796', 'js0', 'password')
+);
