@@ -1,0 +1,17 @@
+CREATE TABLE contacts(
+  contactID int PRIMARY KEY,
+  lastName CHAR(20),
+  firstName CHAR(20),
+  address1 CHAR(40),
+  address2 CHAR(40),
+  city CHAR(20),
+  state CHAR(20),
+  postalCode CHAR(20),
+  country CHAR(20),
+  email CHAR(40),
+  homePhone CHAR(20),
+  facebookURL CHAR(40),
+  cellPhone CHAR(20),
+  userID CHAR(20),
+  password CHAR(20)
+  );
