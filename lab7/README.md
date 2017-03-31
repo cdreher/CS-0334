@@ -1,4 +1,4 @@
-Lab 7 - Dates and Arrays - Due 01-Mar
+Lab 7 - Dates and Arrays
 PHP DATE FUNCTIONS AND ARRAYS
 
 In one PHP file (or more if you prefer), do the following:
