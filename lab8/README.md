@@ -1,4 +1,5 @@
 Lab 8: Working with Files
+
 For this lab, you are to use HTML, CSS, and PHP to create a "guest book" where the user enters information into a form and provides some feedback/comments at the bottom of the form.  Clicking a "submit" button would then send the data to a file.
 
 The design and format is entirely up to you.....make it "pleasing to the eye" for the end-user.
