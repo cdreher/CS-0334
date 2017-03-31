@@ -1,3 +1,5 @@
+Lab 9: SQL Basics
+
 Design a customer contact database that would store at least the following data items:
 
 last name
