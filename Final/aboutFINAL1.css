@@ -1,0 +1,36 @@
+#top
+{
+	width:900px;
+}
+
+#drivers
+{
+	width:20%;
+	float:left;
+}
+
+#irons
+{
+	width:20%;
+	float:left;
+}
+
+#wedges
+{
+	width:20%;
+	float:left;
+}
+
+#golfballs
+{
+	width:20%;
+	float:left;
+}
+
+#shoes
+{
+	width:20%;
+	float:left;
+}
+
+#stopfloat { clear:both;}
