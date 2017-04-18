@@ -1,0 +1,76 @@
+<!--Collin Dreher-->
+<!DOCTYPE html>
+<html> 
+	<title>My Golf Shop - Final Project</title>
+	<link href="final.css" rel="stylesheet" type="text/css" />
+	<SCRIPT LANGUAGE="JavaScript">
+<!--
+var text="Welcome to my Golf Shop!";
+var delay=50;
+var currentChar=1;
+var destination="[not defined]";
+
+
+function type()
+{
+  if (document.getElementById)
+  {
+    var dest=document.getElementById(destination);
+    if (dest)
+    {
+	  dest.style.fontWeight = 'bold';
+	  dest.style.fontSize = 'x-large';
+      dest.innerHTML=text.substr(0, currentChar);
+      currentChar++
+      if (currentChar>text.length)
+      {
+        currentChar=1;
+        setTimeout("type()", 5000);
+      }
+      else
+      {
+        setTimeout("type()", delay);
+      }
+    }
+  }
+}
+function startTyping(textParam, delayParam, destinationParam)
+{
+  text=textParam;
+  delay=delayParam;
+  currentChar=1;
+  destination=destinationParam;
+  type();
+}
+</script>
+</head> 
+
+<body> 
+	<style>body{background-color: #144f2d; color:#42f48f;}</style>
+	
+	<div style="background-color: #42f48f; color: #000000;" id = "typer"></div>
+
+	<div id = "golfpic">
+		<img align = "right" height="400" width="600" src = "golfshop.jpg" alt="Golf Shop">
+	</div>
+	
+	<h3>Select one of the following options:</h3>
+	<li><a href="final_content.php"><button type="button">Enter Customer Info</button></a></li>
+	<li><a href="final_script/final_inventory.php"><button type="button">Explore Inventory</button></a></li>
+	<li><a href="final_script/final_queryInfo.php"><button type="button">Search Inventory</button></a></li>
+	<li><a href="final_about.php"><button type="button">About my golf shop</button></a></li>
+	<li><a href="final_contact.php"><button type="button">Contact me</button></a></li>
+	<li><a href="http://cdreher26.x10host.com/CS0334"><button type="button">Back to directory</button></a></li>
+	<li><a href="final_texts.html"><button type="button">LIST OF .TXT FILES</button></a></li>
+	
+	
+	<p id="stopfloat"></p>
+
+	
+	
+	
+</body>
+<script language = "JavaScript">
+	startTyping(text, 50, "typer");
+</script>
+</html>
